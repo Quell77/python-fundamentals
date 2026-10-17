@@ -63,3 +63,6 @@ if speed >= 24 and speed <= 56:
     print("Speed is normal")
 else:
     print("Speed is abnormal")
+    # GitHub Branch Update
+print("Chapter 3 Algorithm Workbench")
+print("Updated using my GitHub chapter3-updates branch.")
